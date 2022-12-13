@@ -14,6 +14,16 @@ const Login = () => {
   return (
     <div className="login">
       <div className="card">
+        
+        <div className="right">
+          <h1>Login</h1>
+          <form>
+            <input type="text" name="name" placeholder="username" />
+            <input type="password" name="password" placeholder="password" />
+
+            <button onClick={handleLogin}>Login</button>
+          </form>
+        </div>
         <div className="left">
           <h1>Hello World.</h1>
           <p>
@@ -25,15 +35,6 @@ const Login = () => {
           <Link to="/register">
             <button className="btn">Register</button>
           </Link>
-        </div>
-        <div className="right">
-          <h1>Login</h1>
-          <form>
-            <input type="text" name="name" placeholder="username" />
-            <input type="password" name="password" placeholder="password" />
-
-            <button onClick={handleLogin}>Login</button>
-          </form>
         </div>
       </div>
     </div>

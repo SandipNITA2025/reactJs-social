@@ -10,7 +10,7 @@ const RightBar = () => {
           <span>Suggetions for you</span>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <span>Mili Leo</span>
             </div>
             <div className="buttons">
@@ -20,7 +20,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <span>Mili Leo</span>
             </div>
             <div className="buttons">
@@ -36,7 +36,7 @@ const RightBar = () => {
           <span>Latest Activities</span>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <p>
                 <span>Mili Leo</span>
                 Shared your post
@@ -46,7 +46,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <p>
                 <span>Mili Leo</span>
                 Shared your post
@@ -62,7 +62,7 @@ const RightBar = () => {
           <span>Online Friends</span>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -70,7 +70,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -78,7 +78,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -86,7 +86,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -94,7 +94,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -102,7 +102,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -110,7 +110,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -118,7 +118,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -126,7 +126,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -134,7 +134,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -142,7 +142,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -150,7 +150,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -158,7 +158,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
@@ -166,7 +166,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={User} alt="" />
+              <img src="https://i.postimg.cc/TY6mPs7J/login3.jpg" alt="" />
               <div className="dot"></div>
               <span>Mili Leo</span>
             </div>
