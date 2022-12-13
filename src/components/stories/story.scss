@@ -1,7 +1,7 @@
 @import "../../App.scss";
 
 .stories {
-  @include themify($themes) {
+  @include themify ($themes) {
     display: flex;
     height: 200px;
     gap: 20px;
