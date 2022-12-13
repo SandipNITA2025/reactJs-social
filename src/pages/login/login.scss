@@ -20,7 +20,6 @@
       -ms-border-radius: 10px;
       -o-border-radius: 10px;
       .left {
-        // display: none;
         flex: 1;
         background: linear-gradient(
             rgba(39, 11, 96, 0.8),
@@ -35,6 +34,9 @@
         justify-content: center;
         flex-direction: column;
         gap: 1.2rem;
+        @include mobile{
+          display: none;
+        }
         h1 {
           color: #fff;
           font-size: 5rem;

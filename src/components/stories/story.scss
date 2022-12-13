@@ -9,10 +9,10 @@
       height: 50px;
       justify-content: space-between;
     }
-    @include tablet {
-      // height: 160px;
-      gap: 20px;
-    }
+    // @include tablet {
+    //   height: 160px;
+    //   gap: 20px;
+    // }
     .user {
       flex: 1;
       border-radius: 10px;
